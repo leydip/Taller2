@@ -112,7 +112,7 @@ def description_card():
             html.P("Tablero interactivo de análisis de demanda energética en Austria."),
             html.Div(
                 id="intro",
-                children="Esta herramienta contiene información sobre la demanda energética total en Austria cada hora según lo públicado en ENTSO-E Data Portal. Adicionalmente, permite realizar pronósticos hasta 5 dias en el futuro."
+                children="Esta herramienta contiene información sobre la demanda energética total en Austria cada hora según lo públicado en ENTSO-E Data Portal. Adicionalmente, permite realizar pronósticos hasta 5 dias en el futuro. Los resultados se presentan mediante visualizaciones interactivas para facilitar su análisis."
             ),
         ],
     )
